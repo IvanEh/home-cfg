@@ -11,6 +11,7 @@
 .lesshst
 .viminfo
 .pki/
+# **/*.bak
 
 # confidential
 .config/kdeconnect/*.pem
@@ -31,4 +32,26 @@
 # .kde junk
 .kde/**/cache*
 
+# .local junk
+.local/share/akonadi
+.local/share/baloo
+.local/share/dolphin
+.local/share/Enpass
+.local/share/fish
+.local/share/kactivitymanager
+.local/share/kate
+.local/share/kcookiejar
+.local/share/klipper
+.local/share/kscreen
+.local/share/ktorrent
+.local/share/kwalletd
+.local/share/RecentDocuments
+.local/share/sddm/*.log
+.local/share/teamviewer14
+.local/share/thumbnail.so
+.local/share/Trash
+.local/share/kactivitymanagerd/resources
+.local/share/recently-used.xbel
+.local/share/*.tbcache
+.local/share/*.bak
 
