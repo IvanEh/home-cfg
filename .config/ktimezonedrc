@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Europe/Zaporozhye
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

@@ -11,3 +11,19 @@
 .lesshst
 .viminfo
 .pki/
+
+# confidential
+.config/kdeconnect/*.pem
+.config/libaccounts-glib/
+
+# .config junk
+.config/pulse/*
+!.config/pulse/*.*
+.config/pulse/*.tdb
+.config/pulse/cookie
+.config/session/
+.config/VirtualBox/
+.config/dconf/user
+.config/katemetainfos
+
+

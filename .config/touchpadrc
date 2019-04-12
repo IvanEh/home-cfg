@@ -1,0 +1,14 @@
+[parameters]
+AccelFactor=0.34252940292024464
+CircScrollDelta=5.73
+CoastingFriction=43
+HorizEdgeScroll=true
+HorizScrollDelta=2.3
+HorizTwoFingerScroll=true
+InvertHorizScroll=true
+InvertVertScroll=true
+MaxSpeed=30.417519379197433
+MaxTapMove=2.5
+MinSpeed=1.7913645627986232
+Tapping=false
+VertScrollDelta=1.3

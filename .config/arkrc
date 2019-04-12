@@ -1,0 +1,13 @@
+[ExtractDialog]
+Height 1080=560
+Width 1920=1280
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/drive-download-20190410T184724Z-001.zip
+Name1[$e]=drive-download-20190410T184724Z-001.zip
