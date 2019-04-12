@@ -1,0 +1,13 @@
+*
+!.*
+!.*/**
+!README.md
+.cache/
+.dbus/
+.bash_history
+.xsession-errors
+.sudo_as_admin_successful
+.Xauthority
+.lesshst
+.viminfo
+.pki/
