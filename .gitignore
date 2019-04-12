@@ -11,6 +11,8 @@
 .lesshst
 .viminfo
 .pki/
+.mozilla/
+
 # **/*.bak
 
 # confidential
@@ -54,4 +56,5 @@
 .local/share/recently-used.xbel
 .local/share/*.tbcache
 .local/share/*.bak
+
 
