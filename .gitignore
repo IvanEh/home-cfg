@@ -15,6 +15,8 @@
 # confidential
 .config/kdeconnect/*.pem
 .config/libaccounts-glib/
+.kde/share/apps/kwallet/kdewallet.kwl
+.kde/share/apps/kwallet/kdewallet.salt
 
 # .config junk
 .config/pulse/*
@@ -25,5 +27,8 @@
 .config/VirtualBox/
 .config/dconf/user
 .config/katemetainfos
+
+# .kde junk
+.kde/**/cache*
 
 
