@@ -1,0 +1,1 @@
+ln -s "$(pwd)/metadata.desktop" ~/.local/share/kservices5/kwin-gaps.desktop

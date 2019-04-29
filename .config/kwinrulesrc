@@ -1,2 +1,9 @@
 [General]
+XftAntialias[$d]
+XftHintStyle[$d]
+XftSubPixel[$d]
 count=0
+
+[KDE]
+LookAndFeelPackage[$d]
+SingleClick[$d]

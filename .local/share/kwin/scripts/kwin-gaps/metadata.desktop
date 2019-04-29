@@ -1,0 +1,24 @@
+[Desktop Entry]
+Name=Kwin-Gaps
+Comment=A minimal KWin script for adding gaps around workspace border and center
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KWin-Exclude-Listing=false
+
+
+X-KDE-PluginInfo-Author=Ivan Ehreshi
+X-KDE-PluginInfo-Email=hyeicmeiss@gmail.com
+X-KDE-PluginInfo-Name=kwin-gaps
+X-KDE-PluginInfo-Version=0.3
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script,KCModule
+
+X-KDE-Library=kwin/effects/configs/kcm_kwin4_genericscripted
+X-KDE-PluginKeyword=kwin-gaps
+X-KDE-ParentComponents=kwin-gaps
+
+Type=Service

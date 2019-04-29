@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+  <group name="">
+    <entry name="top" type="string">
+      <default>8</default>
+    </entry>
+    <entry name="left" type="string">
+      <default>8</default>
+    </entry>
+    <entry name="right" type="string">
+      <default>8</default>
+    </entry>
+    <entry name="bottom" type="string">
+      <default>8</default>
+    </entry>
+    <entry name="center" type="string">
+      <default>8</default>
+    </entry>
+    <entry name="topPanelMargin" type="string">
+      <default>27</default>
+    </entry>
+  </group>
+
+</kcfg>
