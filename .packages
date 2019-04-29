@@ -15,5 +15,66 @@ apt-get install enpass
 echo "Install team viewer manuall https://www.teamviewer.com/ru/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/linux/"
 
 # Fish
-
 sudo apt-get install fish
+
+# Telegram
+sudo apt-get install telegram-desktop
+
+# Idea
+# shortcut: https://www.jetbrains.com/help/idea/2016.1/installing-and-launching.html#desktop_shortcut
+# link: https://www.jetbrains.com/idea/download/#section=linux
+
+mv idea /opt/idea
+cd /opt/idea/bin
+./run.sh
+
+# KFind
+# KDE Discover
+
+# Krita
+# KDE Discover
+
+# Flameshot
+# KDE Discover
+
+# ifconfig
+
+sudo apt install net-tools
+
+# Groovy shell
+
+sudo apt install groovy
+
+# Visual Studio
+
+sudo snap install code --classic
+
+# Node js
+
+sudo snap install node --channel=10/stable --classic
+
+# Latte Dock
+
+latte-dock
+
+# KWin tiling
+
+cd /opt
+sudo apt-get install kdesignerplugin
+sudo git clone https://github.com/faho/kwin-tiling.git --depth=1
+
+# Anki
+
+# download from ANki web site
+
+# Inkscape
+
+sudo apt-get install inkscape
+
+# Git Cola
+
+sudo apt-get install git-cola
+
+# Yakuake
+
+sudo apt-get install yakuake
