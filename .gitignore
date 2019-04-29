@@ -12,6 +12,14 @@
 .viminfo
 .pki/
 .mozilla/
+.IdeaIC2019.1/
+.ivy2
+.npm
+.sbt
+.vscode/extensions
+.java
+.idea-build
+*.log
 
 # **/*.bak
 
@@ -20,6 +28,7 @@
 .config/libaccounts-glib/
 .kde/share/apps/kwallet/kdewallet.kwl
 .kde/share/apps/kwallet/kdewallet.salt
+.ssh/known_hosts
 
 # .config junk
 .config/pulse/*
@@ -30,9 +39,12 @@
 .config/VirtualBox/
 .config/dconf/user
 .config/katemetainfos
+.config/Code*
 
 # .kde junk
 .kde/**/cache*
+.kde/socket*
+.kde/tmp*
 
 # .local junk
 .local/share/akonadi
@@ -56,5 +68,18 @@
 .local/share/recently-used.xbel
 .local/share/*.tbcache
 .local/share/*.bak
+.local/share/TelegramDesktop
+
+
+# ignored apps
+
+.config/akonadi*
+.config/libreoffice/
+.local/share/knewstuff3/
+.local/share/krita/
+.config/inkscape
+.config/git-cola
+.local/share/Anki*
+.local/share/okular
 
 
