@@ -20,6 +20,13 @@
 .java
 .idea-build
 *.log
+.config/gtkrc
+.config.gtkrc-2.0
+.config/kded_device_automounterrc
+.config/gtkrc-2.0
+.config/kcmdisplayrc
+.swt/trims.prefs
+**/.directory
 
 # **/*.bak
 
@@ -29,6 +36,8 @@
 .kde/share/apps/kwallet/kdewallet.kwl
 .kde/share/apps/kwallet/kdewallet.salt
 .ssh/known_hosts
+.config/emailidentities
+.wget-hsts
 
 # .config junk
 .config/pulse/*
@@ -45,6 +54,15 @@
 .kde/**/cache*
 .kde/socket*
 .kde/tmp*
+.kde/share/config/kdebugrc
+.kde/share/config/drkonqirc
+.kde/share/config/kmixrc
+.kde/share/config/kconf_updaterc
+.kde/share/config/kuriikwsfilterrc
+.kde/share/config/kio_httprc
+.kde/share/config/kioslaverc
+.kde/share/config/phonondevicesrc
+.kde/share/config/kcookiejarrc
 
 # .local junk
 .local/share/akonadi
@@ -69,9 +87,12 @@
 .local/share/*.tbcache
 .local/share/*.bak
 .local/share/TelegramDesktop
+.local/share/JetBrains
+.local/share/vlc/ml.xspf
+/.local/share/plasmashell/interactiveconsoleautosave.js
+.local/share/apps/korganizer
 
-
-# ignored apps
+# .config
 
 .config/akonadi*
 .config/libreoffice/
@@ -81,5 +102,34 @@
 .config/git-cola
 .local/share/Anki*
 .local/share/okular
-/.local/share/plasmashell/interactiveconsoleautosave.js
 .config/Trolltech.conf
+.config/QtProject.conf
+.config/emaildefaults
+.config/kactivitymanagerd-statsrc
+.config/sinew.in/Enpass.conf
+.config/startupconfigfiles
+.config/configstore/update-notifier-npm.json
+.config/discoverrc
+.config/drkonqirc
+.config/kfindrc
+.config/kgammarc
+.config/kritadisplayrc
+.config/kmenueditrc
+.config/kritarc
+.config/knotifyrc
+.config/ksysguardrc
+.config/lo_kde5filepickerrc
+.config/pimsettingexporterrc
+.config/sddmthemeinstallerrc
+.config/sinew.in/Enpass.conf
+.config/specialmailcollectionsrc
+.config/startupconfigfiles
+.config/systemsettingsrc
+.config/gwenviewrc
+.config/khelpcenterrc
+.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+
+# applications
+
+/**/gwenview
+/**/ksysguard
