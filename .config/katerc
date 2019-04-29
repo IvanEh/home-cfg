@@ -1,3 +1,9 @@
+[Desktop Entry]
+DefaultProfile=
+
+[Favorite Profiles]
+Favorites=
+
 [General]
 Config Revision=10
 Days Meta Infos=30
@@ -7,6 +13,8 @@ Show Full Path in Title=false
 Show Menu Bar=true
 Show Status Bar=true
 Show Tab Bar=true
+
+[KFileDialog Settings]
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -91,13 +99,14 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Search History=ivaneh,Windows 7
+Search History=syncCustomProperties
 
 [MainWindow]
-Height 1080=1015
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 1080=1006
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA6QAAAPwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=932
 
 [filetree]
 editShade=179,218,246

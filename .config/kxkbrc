@@ -1,0 +1,13 @@
+[Layout]
+DisplayNames=,,
+LayoutList=us,ua,ru
+LayoutLoopCount=2
+Model=pc101
+Options=grp:alt_shift_toggle,altwin:meta_win
+ResetOldOptions=true
+ShowFlag=false
+ShowLabel=true
+ShowLayoutIndicator=true
+ShowSingle=false
+SwitchMode=Global
+Use=true

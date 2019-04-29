@@ -91,6 +91,8 @@
 .local/share/vlc/ml.xspf
 /.local/share/plasmashell/interactiveconsoleautosave.js
 .local/share/apps/korganizer
+.local/share/contacts
+.local/share/kded5/keyboard
 
 # .config
 

@@ -1,5 +1,34 @@
 [General]
-history=,sudo software-properties-kde,disc
+history=kquitapp5 plasmashell && kstart plasmashell && kstart kwin --replace,wm cons,qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.showInteractiveConsole,qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.showInteractiveKWinConsole,shortcu,,sudo software-properties-kde,disc
 
 [PlasmaRunnerManager]
-LaunchCounts=
+LaunchCounts=1 services_kcmdolphinviewmodes.desktop,1 shell_kquitapp5 plasmashell && kstart plasmashell && kstart kwin --replace,1 services_keys.desktop,1 shell_qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.showInteractiveConsole,1 shell_qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.showInteractiveKWinConsole
+
+[Plugins]
+CharacterRunnerEnabled=true
+DictionaryEnabled=false
+Kill RunnerEnabled=true
+PIM Contacts Search RunnerEnabled=true
+PowerDevilEnabled=true
+Spell CheckerEnabled=false
+baloosearchEnabled=false
+bookmarksEnabled=false
+browsertabsEnabled=false
+calculatorEnabled=true
+desktopsessionsEnabled=true
+katesessionsEnabled=true
+konsoleprofilesEnabled=true
+krunner_appstreamEnabled=false
+kwinEnabled=true
+locationsEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=true
+org.kde.windowedwidgetsEnabled=true
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=false
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=true

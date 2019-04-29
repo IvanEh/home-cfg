@@ -1,0 +1,10 @@
+[DownloadDialog Settings]
+Height 1080=510
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=kwin-gaps.kwinscript,file:$HOME/Dev/kwin-gaps/kde-gaps.kwinscript,file:$HOME/Downloads/flameshot-shortcuts-kde
+Recent URLs[$e]=file:$HOME/Dev/kwin-gaps/
+
+[PlasmaRunnerManager]
+LaunchCounts=

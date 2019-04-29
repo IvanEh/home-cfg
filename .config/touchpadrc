@@ -1,5 +1,5 @@
 [parameters]
-AccelFactor=0.34252940292024464
+AccelFactor=0.43232525309900105
 CircScrollDelta=5.73
 CoastingFriction=43
 HorizEdgeScroll=true
@@ -9,6 +9,6 @@ InvertHorizScroll=true
 InvertVertScroll=true
 MaxSpeed=30.417519379197433
 MaxTapMove=2.5
-MinSpeed=1.7913645627986232
+MinSpeed=2.4623275084366334
 Tapping=false
 VertScrollDelta=1.3
