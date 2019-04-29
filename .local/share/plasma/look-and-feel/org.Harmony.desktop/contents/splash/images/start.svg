@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5460892mm"
+   height="8.4666672mm"
+   viewBox="0 0 32.30018 32.000002"
+   version="1.1"
+   id="svg857"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="start.svg">
+  <defs
+     id="defs851" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.408091"
+     inkscape:cx="19.873772"
+     inkscape:cy="13.471208"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata854">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-357.98554,-480.8054)">
+    <g
+       id="start-here-kde"
+       transform="matrix(3.7795275,0,0,3.7795275,354.12223,-614.54113)">
+      <rect
+         y="289.79007"
+         x="1.0914059"
+         height="8.4666672"
+         width="8.4666672"
+         id="rect835"
+         style="opacity:0.87000002;fill:none;fill-opacity:0.81278537;fill-rule:nonzero;stroke:none;stroke-width:0.88863957;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8310502" />
+      <ellipse
+         cy="293.84009"
+         cx="5.4316773"
+         id="path845"
+         style="opacity:1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00541663;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91031392"
+         rx="3.0357809"
+         ry="3.0001349" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.77952766px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#1c4362;fill-opacity:1;stroke:none;stroke-width:1.00000012"
+       x="377.27722"
+       y="479.28009"
+       id="text819"
+       transform="scale(0.97040489,1.0304977)"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="377.27722"
+         y="479.28009"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.77952766px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1c4362;fill-opacity:1;stroke-width:1.00000012">Harmony</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.6692915px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1c4362;fill-opacity:1;stroke:none"
+       x="366.69855"
+       y="501.28305"
+       id="text824"><tspan
+         sodipodi:role="line"
+         id="tspan822"
+         x="366.69855"
+         y="501.28305">Hello!</tspan></text>
+  </g>
+</svg>
