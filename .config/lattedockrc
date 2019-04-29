@@ -1,0 +1,25 @@
+[KFileDialog Settings]
+Recent Files[$e]=Latte Dinamico.layout.latte,file:$HOME/latte-backup.layout.latte,file:$HOME/.config/latte/Latte Dinamico.layout.latte
+Recent URLs[$e]=file:$HOME/.config/latte/
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_kwinoptions.desktop,42 services_kwinscripts.desktop,6 services_firefox.desktop,6 services_org.kde.konsole.desktop,1 services_im-config.desktop,11 services_org.kde.yakuake.desktop,13 services_org.kde.dolphin.desktop,3 services_telegramdesktop.desktop,3 services_enpass.desktop,1 services_kcmkwineffects.desktop,1 services_khotkeys.desktop,10 services_code_code.desktop,1 services_org.kde.discover.desktop,2 services_org.kde.pimsettingexporter.desktop,2 services_org.kde.kate.desktop,1 services_kwincompositing.desktop,3 services_keys.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil
+
+[ScreenConnectors]
+10=eDP-1
+
+[UniversalSettings]
+canDisableBorders=false
+currentLayout=latte-backup
+downloadWindowSize=800,550
+lastNonAssignedLayout=latte-backup
+launchers=
+layoutsColumnWidths=86,76,63,0
+layoutsWindowSize=700,553
+memoryUsage=0
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+unifiedGlobalShortcuts=true
+version=2
