@@ -25,3 +25,5 @@ fi
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
+
+export MPJ_HOME=/home/ivaneh/Univ/V-2/MPI/mpj/
