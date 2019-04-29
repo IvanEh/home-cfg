@@ -1,0 +1,59 @@
+[Animation]
+Frames=10
+
+[Appearance]
+BackgroundColorOpacity=99
+Skin=adapta-nokto
+TerminalHighlightOnManualActivation=true
+Translucency=true
+
+[Behavior]
+FocusFollowsMouse=true
+
+[Desktop Entry]
+DefaultProfile=Dark.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+Height 1080=510
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[KFileDialog Settings]
+Recent Files[$e]=92457-plasma-oxygen-panel.tar.bz2,file:$HOME/Downloads/adapta-yakuake-skins.tar.gz,file:$HOME/Downloads/92457-plasma-oxygen-panel.tar.bz2
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[Shortcuts]
+close-active-terminal=Ctrl+Shift+R
+close-session=Ctrl+Shift+W
+decrease-window-height=Alt+Shift+Up
+decrease-window-width=Alt+Shift+Left
+file_quit=Ctrl+Shift+Q
+grow-terminal-bottom=Ctrl+Alt+Down
+grow-terminal-left=Ctrl+Alt+Left
+grow-terminal-right=Ctrl+Alt+Right
+grow-terminal-top=Ctrl+Alt+Up
+increase-window-height=Alt+Shift+Down
+increase-window-width=Alt+Shift+Right
+move-session-left=Ctrl+Shift+Left
+move-session-right=Ctrl+Shift+Right
+new-session=Ctrl+Shift+T
+next-session=Shift+Right
+next-terminal=Ctrl+Shift+Down
+previous-session=Shift+Left
+previous-terminal=Ctrl+Shift+Up
+rename-session=Ctrl+Alt+S
+split-left-right=Ctrl+(
+split-top-bottom=Ctrl+)
+toggle-session-monitor-activity=Ctrl+Shift+A
+toggle-session-monitor-silence=Ctrl+Shift+I
+view-full-screen=Ctrl+Shift+F11
+
+[Window]
+DynamicTabTitles=true
+Height=70
+Width=80
