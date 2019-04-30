@@ -130,8 +130,21 @@
 .config/gwenviewrc
 .config/khelpcenterrc
 .config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+.config/kconf_updaterc
+.config/ktorrent_infowidgetrc
+.config/ktorrent_infowidgetrc
+.config/webengineurlinterceptoradblockrc
 
 # applications
 
 /**/gwenview
 /**/ksysguard
+/**/teamviewer
+/**/VirtualBox*
+/**/akregator*
+/**/baloofile*
+/**/bluedevil*
+/**/kmail*
+/**/kmix*
+/**/korgac*
+/**/systemmonitor*
