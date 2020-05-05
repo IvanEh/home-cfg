@@ -19,6 +19,19 @@
 .vscode/extensions
 .java
 .idea-build
+.cubec*
+.eclipse
+.google-cloud-sdk
+.gradle
+.m2
+.newrelic
+.sdkman
+.mono
+.ssh
+.swt
+.visualvm
+.zoom
+.vim_mru_files
 *.log
 .config/gtkrc
 .config.gtkrc-2.0
@@ -27,6 +40,11 @@
 .config/kcmdisplayrc
 .swt/trims.prefs
 **/.directory
+.3T/
+.GlobalProtect
+.audacity-date
+.gsutil
+.gnupg
 
 # **/*.bak
 
@@ -49,6 +67,8 @@
 .config/dconf/user
 .config/katemetainfos
 .config/Code*
+.config/google-chrome
+.config/vlc/
 
 # .kde junk
 .kde/**/cache*
@@ -93,6 +113,8 @@
 .local/share/apps/korganizer
 .local/share/contacts
 .local/share/kded5/keyboard
+.local/lib
+.local/bin
 
 # .config
 
